@@ -1,3 +1,5 @@
 Giraffe
 Zebra
 Lion
+Bear
+Peacock
